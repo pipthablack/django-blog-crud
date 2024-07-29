@@ -9,13 +9,13 @@ This is a simple Django REST API for a blog application.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pipthablack/django-rest.git
+git clone https://github.com/pipthablack/django-blog-crud.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd django-rest
+cd django-blog-crud
 ```
 
 3. Create a virtual environment (optional but recommended):
