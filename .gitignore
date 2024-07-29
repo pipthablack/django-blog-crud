@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+myevn/
+
+# Django
+*.sqlite3
+db.sqlite3
+/static/
+media/
+
+# Secret Key
+secret_key.py
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
